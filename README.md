@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Meway Tiesha
+- 👋 Hi, I’m char *Name = {"Meway Tiesha", "Gleb Lukyanov", "President of the culinary club, school 21"}
 - 👀 I’m interested in https://www.youtube.com/watch?v=dQw4w9WgXcQ
